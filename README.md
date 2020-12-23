@@ -1,1 +1,1 @@
-A brief go through R programming language
+An introduction to R programming language.
