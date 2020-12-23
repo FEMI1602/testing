@@ -1,1 +1,1 @@
-A brief go throgh R programming language
+A brief go through R programming language
